@@ -7,5 +7,5 @@
 
 ## Semantic Role Labeling 语义角色标注
 
-4. ##### <https://github.com/zxplkyy/BiRNN-SRL>  中文 SRL（语义角色标注） 数据集
-5. ##### <https://github.com/Nrgeup/chinese_semantic_role_labeling> 基于BiLstm + CRF 的中文 SRL 
+1. ##### <https://github.com/zxplkyy/BiRNN-SRL>  中文 SRL（语义角色标注） 数据集
+2. ##### <https://github.com/Nrgeup/chinese_semantic_role_labeling> 基于 Lstm + CRF 的中文 SRL 
