@@ -1,7 +1,7 @@
 # Research Resource
 
 
-## 法句分析/词法分析
+## 句法分析/词法分析
 
 1. ##### <https://github.com/lemonhu/open-entity-relation-extraction> 根据句子依存关系，提取 KG 三元组。
 2. ##### <https://github.com/ibatra/BERT-Keyword-Extractor> 基于 bert 提取 keyphrase。
@@ -11,6 +11,8 @@
 1. ##### <https://github.com/zxplkyy/BiRNN-SRL>  中文 SRL（语义角色标注） 数据集
 2. ##### <https://github.com/Nrgeup/chinese_semantic_role_labeling> 基于 Lstm + CRF 的中文 SRL 
 
+## Natural Language Generation 自然语言生成
+1. ##### <https://github.com/UFAL-DSG/tgen> 相关文献：https://www.aclweb.org/anthology/P16-2008.pdf
 
 
 ## Paper List
