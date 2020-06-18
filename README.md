@@ -1,5 +1,7 @@
 # Research Resource
 
+## NLP 工具包
+1. 1. ##### <https://github.com/fastnlp/fastHan> fastHan可处理中文分词、词性标注、依存分析、命名实体识别四项任务。
 
 ## 句法分析/词法分析
 
