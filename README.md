@@ -1,5 +1,11 @@
 # Research Resource
 
+## 中文语料
+1. ##### <https://github.com/brightmart/nlp_chinese_corpus> 中文大规模语料。
+2. ##### <https://github.com/goto456/stopwords> 中文常用停用词表（包括哈工大停用词表）。
+3. ##### <https://github.com/CLUEbenchmark/CLUENER2020> CLUENER 细粒度命名实体识别。
+
+
 ## NLP 工具包
 1. ##### <https://github.com/fastnlp/fastHan> fastHan可处理中文分词、词性标注、依存分析、命名实体识别四项任务。
 2. ##### <https://github.com/fxsjy/jieba> 结巴分词。
@@ -11,6 +17,7 @@
 
 ## (Chinese) Grammatical Error Diagnosis
 1. ##### <https://github.com/shibing624/pycorrector> 中文文本纠错工具 pycorrector。
+2. ##### <https://github.com/kpu/kenlm> 高效语言模型 Kenlm。
 
 ## Semantic Role Labeling 语义角色标注
 
@@ -19,6 +26,7 @@
 
 ## Natural Language Generation 自然语言生成
 1. ##### <https://github.com/UFAL-DSG/tgen> 相关文献：https://www.aclweb.org/anthology/P16-2008.pdf
+2. ##### <https://github.com/microsoft/MASS> 微软 MASS seq2seq 模型。
 
 ## 中文预训练模型
 1. ##### <https://github.com/google-research/bert>  官方 Google Bert (tensorflow)。
@@ -27,7 +35,11 @@
 4. ##### <https://github.com/ymcui/Chinese-ELECTRA> 中文 ELECTRA。
 5. ##### <https://github.com/ymcui/Chinese-BERT-wwm> 哈工大讯飞联合实验室训练的 Bert wwm 和 Roberta wwm 等。
 6. ##### <https://github.com/ymcui/Chinese-XLNet> 中文 XLNet。
+7. ##### <https://github.com/ZhuiyiTechnology/WoBERT> 以词为基本单位的中文BERT（Word-based BERT）。
 
+## 预训练模型其它技术
+1. ##### <https://github.com/timoschick/pet> Pattern-Exploiting Training (PET)，用于 few-shot 刷榜 Superglue。
+2. ##### <https://github.com/autoliuweijie/K-BERT> 融合知识图谱的 BERT 。
 
 ## Paper List
 
