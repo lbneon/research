@@ -2,6 +2,7 @@
 
 ## NLP 工具包
 1. ##### <https://github.com/fastnlp/fastHan> fastHan可处理中文分词、词性标注、依存分析、命名实体识别四项任务。
+2. ##### <https://github.com/fxsjy/jieba> 结巴分词。
 
 ## 句法分析/词法分析
 
@@ -13,11 +14,19 @@
 
 ## Semantic Role Labeling 语义角色标注
 
-1. ##### <https://github.com/zxplkyy/BiRNN-SRL>  中文 SRL（语义角色标注） 数据集
-2. ##### <https://github.com/Nrgeup/chinese_semantic_role_labeling> 基于 Lstm + CRF 的中文 SRL 
+1. ##### <https://github.com/zxplkyy/BiRNN-SRL>  中文 SRL（语义角色标注） 数据集。
+2. ##### <https://github.com/Nrgeup/chinese_semantic_role_labeling> 基于 Lstm + CRF 的中文 SRL。
 
 ## Natural Language Generation 自然语言生成
 1. ##### <https://github.com/UFAL-DSG/tgen> 相关文献：https://www.aclweb.org/anthology/P16-2008.pdf
+
+## 中文预训练模型
+1. ##### <https://github.com/google-research/bert>  官方 Google Bert (tensorflow)。
+2. ##### <https://github.com/huggingface/transformers>  Transformer NLP 模型集合。
+3. ##### <https://github.com/brightmart/roberta_zh> 中文 Roberta。
+4. ##### <https://github.com/ymcui/Chinese-ELECTRA> 中文 ELECTRA。
+5. ##### <https://github.com/ymcui/Chinese-BERT-wwm> 哈工大讯飞联合实验室训练的 Bert wwm 和 Roberta wwm 等。
+6. ##### <https://github.com/ymcui/Chinese-XLNet> 中文 XLNet。
 
 
 ## Paper List
