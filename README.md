@@ -8,6 +8,9 @@
 1. ##### <https://github.com/lemonhu/open-entity-relation-extraction> 根据句子依存关系，提取 KG 三元组。
 2. ##### <https://github.com/ibatra/BERT-Keyword-Extractor> 基于 bert 提取 keyphrase。
 
+## (Chinese) Grammatical Error Diagnosis
+1. ##### <https://github.com/shibing624/pycorrector> 中文文本纠错工具 pycorrector。
+
 ## Semantic Role Labeling 语义角色标注
 
 1. ##### <https://github.com/zxplkyy/BiRNN-SRL>  中文 SRL（语义角色标注） 数据集
