@@ -11,6 +11,7 @@
 ## NLP 工具包
 1. ##### <https://github.com/fastnlp/fastHan> fastHan可处理中文分词、词性标注、依存分析、命名实体识别四项任务。
 2. ##### <https://github.com/fxsjy/jieba> 结巴分词。
+3. ##### <https://github.com/ckiplab/ckiptagger> CkipTagger 開源中文處理工具包含，分词、词性标注、NER。
 
 ## 句法分析/词法分析
 
