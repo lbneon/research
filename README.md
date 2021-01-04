@@ -20,6 +20,9 @@
 ## (Chinese) Grammatical Error Diagnosis
 1. ##### <https://github.com/shibing624/pycorrector> 中文文本纠错工具 pycorrector。
 2. ##### <https://github.com/kpu/kenlm> 高效语言模型 Kenlm。
+3. ##### <https://github.com/iqiyi/FASPell> FASPell 中文拼写检查器。
+4. ##### <https://github.com/ACL2020SpellGCN/SpellGCN>  SpellGCN 中文拼写检查器。
+5. ##### <https://github.com/whgaara/pytorch-soft-masked-bert>  Soft-masked bert。
 
 ## Semantic Role Labeling 语义角色标注
 
