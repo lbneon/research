@@ -5,6 +5,8 @@
 2. ##### <https://github.com/goto456/stopwords> 中文常用停用词表（包括哈工大停用词表）。
 3. ##### <https://github.com/CLUEbenchmark/CLUENER2020> CLUENER 细粒度命名实体识别。
 
+## 中文数据增强
+1. ##### <https://github.com/zhanlaoban/EDA_NLP_for_Chinese> 中文EDA实现，文献：https://arxiv.org/abs/1901.11196
 
 ## NLP 工具包
 1. ##### <https://github.com/fastnlp/fastHan> fastHan可处理中文分词、词性标注、依存分析、命名实体识别四项任务。
