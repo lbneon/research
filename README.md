@@ -12,6 +12,7 @@
 1. ##### <https://github.com/fastnlp/fastHan> fastHan可处理中文分词、词性标注、依存分析、命名实体识别四项任务。
 2. ##### <https://github.com/fxsjy/jieba> 结巴分词。
 3. ##### <https://github.com/ckiplab/ckiptagger> CkipTagger 開源中文處理工具包含，分词、词性标注、NER。
+4. ##### <https://github.com/yongzhuo/Macropodus> Macropodus Albert+BiLSTM+CRF 网络架构为基础的自然语言处理工具包，提供中文分词、词性标注、命名实体识别、关键词抽取、文本摘要、新词发现、文本相似度、计算器、数字转换、拼音转换、繁简转换等常见 NLP 功能。
 
 ## 句法分析/词法分析
 
