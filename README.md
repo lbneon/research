@@ -43,6 +43,7 @@
 5. ##### <https://github.com/ymcui/Chinese-BERT-wwm> 哈工大讯飞联合实验室训练的 Bert wwm 和 Roberta wwm 等。
 6. ##### <https://github.com/ymcui/Chinese-XLNet> 中文 XLNet。
 7. ##### <https://github.com/ZhuiyiTechnology/WoBERT> 以词为基本单位的中文BERT（Word-based BERT）。
+8. ##### <https://github.com/ymcui/MacBERT> 中文 MacBERT。
 
 ## 预训练模型其它技术
 1. ##### <https://github.com/timoschick/pet> Pattern-Exploiting Training (PET)，用于 few-shot 刷榜 Superglue。
