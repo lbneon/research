@@ -44,6 +44,8 @@
 6. ##### <https://github.com/ymcui/Chinese-XLNet> 中文 XLNet。
 7. ##### <https://github.com/ZhuiyiTechnology/WoBERT> 以词为基本单位的中文BERT（Word-based BERT）。
 8. ##### <https://github.com/ymcui/MacBERT> 中文 MacBERT。
+9. ##### <https://github.com/huawei-noah/Pretrained-Language-Model> 华为 noah 提供的各种中文预训练模型：nezha、tinybert、dynabert、bbpe、pmlm等。
+10. ##### <https://github.com/sinovation/ZEN> a BERT-based Chinese (Z) text encoder Enhanced by N-gram representations。
 
 ## 预训练模型其它技术
 1. ##### <https://github.com/timoschick/pet> Pattern-Exploiting Training (PET)，用于 few-shot 刷榜 Superglue。
