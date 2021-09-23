@@ -4,6 +4,7 @@
 1. ##### <https://github.com/brightmart/nlp_chinese_corpus> 中文大规模语料。
 2. ##### <https://github.com/goto456/stopwords> 中文常用停用词表（包括哈工大停用词表）。
 3. ##### <https://github.com/CLUEbenchmark/CLUENER2020> CLUENER 细粒度命名实体识别。
+4. ##### <https://www.cluebenchmarks.com/> 中文语言理解测评基准(CLUE)
 
 ## 中文数据增强
 1. ##### <https://github.com/zhanlaoban/EDA_NLP_for_Chinese> 中文 EDA 实现，文献：https://arxiv.org/abs/1901.11196
