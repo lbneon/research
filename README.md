@@ -18,7 +18,6 @@
 5. ##### <https://github.com/yongzhuo/Macropodus> Macropodus Albert+BiLSTM+CRF 网络架构为基础的自然语言处理工具包，提供中文分词、词性标注、命名实体识别、关键词抽取、文本摘要、新词发现、文本相似度、计算器、数字转换、拼音转换、繁简转换等常见 NLP 功能。
 
 ## 句法分析/词法分析
-
 1. ##### <https://github.com/lemonhu/open-entity-relation-extraction> 根据句子依存关系，提取 KG 三元组。
 2. ##### <https://github.com/ibatra/BERT-Keyword-Extractor> 基于 bert 提取 keyphrase。
 
@@ -30,7 +29,6 @@
 5. ##### <https://github.com/whgaara/pytorch-soft-masked-bert>  Soft-masked bert。
 
 ## Semantic Role Labeling 语义角色标注
-
 1. ##### <https://github.com/zxplkyy/BiRNN-SRL>  中文 SRL（语义角色标注） 数据集。
 2. ##### <https://github.com/Nrgeup/chinese_semantic_role_labeling> 基于 Lstm + CRF 的中文 SRL。
 
@@ -50,12 +48,14 @@
 9. ##### <https://github.com/huawei-noah/Pretrained-Language-Model> 华为 noah 提供的各种中文预训练模型：nezha、tinybert、dynabert、bbpe、pmlm等。
 10. ##### <https://github.com/sinovation/ZEN> a BERT-based Chinese (Z) text encoder Enhanced by N-gram representations。
 
+## 形近字资源
+1. ##### <https://github.com/lbneon/pyAndForm_v1/blob/master/models/getChineseStrokes/ChineseStrokes.dat> 形近字表。
+
 ## 预训练模型其它技术
 1. ##### <https://github.com/timoschick/pet> Pattern-Exploiting Training (PET)，用于 few-shot 刷榜 Superglue。
 2. ##### <https://github.com/autoliuweijie/K-BERT> 融合知识图谱的 BERT 。
 
 ## Paper List
-
 1. ##### <https://paperswithcode.com/> 各种机器学习 SOTA 对应的代码实现。
 2. ##### <https://openreview.net/> 顶会的 Open Review。
 3. ##### <https://mp.weixin.qq.com/s/mPWoKh1UQ4HbgEbNDkjsiA> NIPS2019 | 深度强化学习重点论文解读
