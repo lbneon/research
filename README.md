@@ -9,7 +9,7 @@
 ## 中文数据增强
 1. ##### <https://github.com/zhanlaoban/EDA_NLP_for_Chinese> 中文 EDA 实现，文献：https://arxiv.org/abs/1901.11196
 2. ##### <https://github.com/425776024/nlpcda> 中文数据增强：按近义字、实体替换、数字改写等方式。
-3. ##### <https://github.com/thunlp/WantWords> <https://wantwords.thunlp.org/> 万词王：反向查找词典
+3. ##### <https://github.com/thunlp/WantWords> 万词王：反向查找词典 <https://wantwords.thunlp.org/>
 
 ## NLP 工具包
 1. ##### <https://github.com/fighting41love/funNLP> nlp 库，比较全。
