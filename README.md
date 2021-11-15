@@ -52,6 +52,9 @@
 ## 形近字资源
 1. ##### <https://github.com/lbneon/pyAndForm_v1/blob/master/models/getChineseStrokes/ChineseStrokes.dat> 形近字表。
 
+## 多模态资源
+1. ##### <https://github.com/CryhanFang/CLIP2Video> 腾讯开源的文本视频检索模型。
+
 ## 预训练模型其它技术
 1. ##### <https://github.com/timoschick/pet> Pattern-Exploiting Training (PET)，用于 few-shot 刷榜 Superglue。
 2. ##### <https://github.com/autoliuweijie/K-BERT> 融合知识图谱的 BERT 。
