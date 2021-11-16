@@ -37,6 +37,10 @@
 1. ##### <https://github.com/UFAL-DSG/tgen> 相关文献：https://www.aclweb.org/anthology/P16-2008.pdf
 2. ##### <https://github.com/microsoft/MASS> 微软 MASS seq2seq 模型。
 
+## 文本相似度
+1. ##### <https://github.com/ZhuiyiTechnology/roformer-sim> 结合 nlu 与 nlg 的模型 SimBERTv2。
+2. ##### <https://github.com/princeton-nlp/SimCSE> 基于对比学习的相似度模型 Simple Contrastive Learning of Sentence Embeddings。
+
 ## 中文预训练模型
 1. ##### <https://github.com/google-research/bert>  官方 Google Bert (tensorflow)。
 2. ##### <https://github.com/huggingface/transformers>  Transformer NLP 模型集合。
