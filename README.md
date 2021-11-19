@@ -55,6 +55,7 @@
 
 ## 形近字资源
 1. ##### <https://github.com/lbneon/pyAndForm_v1/blob/master/models/getChineseStrokes/ChineseStrokes.dat> 形近字表。
+2. ##### <http://www.fantiz5.com/xingjinzi/> 形近字查询工具。
 
 ## 多模态资源
 1. ##### <https://github.com/CryhanFang/CLIP2Video> 腾讯开源的文本视频检索模型。
