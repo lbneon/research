@@ -52,6 +52,8 @@
 8. ##### <https://github.com/ymcui/MacBERT> 中文 MacBERT。
 9. ##### <https://github.com/huawei-noah/Pretrained-Language-Model> 华为 noah 提供的各种中文预训练模型：nezha、tinybert、dynabert、bbpe、pmlm等。
 10. ##### <https://github.com/sinovation/ZEN> a BERT-based Chinese (Z) text encoder Enhanced by N-gram representations。
+11. ##### <https://github.com/ShannonAI/ChineseBert> 香侬科技提出的融合中文字形、拼音版的 Bert。
+12. ##### <https://github.com/ShannonAI/glyce> 香侬科技提出的融合中文字形信息的 Bert。
 
 ## 形近字资源
 1. ##### <https://github.com/lbneon/pyAndForm_v1/blob/master/models/getChineseStrokes/ChineseStrokes.dat> 形近字表。
