@@ -54,6 +54,7 @@
 10. ##### <https://github.com/sinovation/ZEN> a BERT-based Chinese (Z) text encoder Enhanced by N-gram representations。
 11. ##### <https://github.com/ShannonAI/ChineseBert> 香侬科技提出的融合中文字形、拼音版的 Bert。
 12. ##### <https://github.com/ShannonAI/glyce> 香侬科技提出的融合中文字形信息的 Bert。
+13. ##### <https://github.com/Tencent/Lichee> 腾讯开源预训练模型 Lichee，<https://arxiv.org/pdf/2108.00801.pdf>。
 
 ## 形近字资源
 1. ##### <https://github.com/lbneon/pyAndForm_v1/blob/master/models/getChineseStrokes/ChineseStrokes.dat> 形近字表。
