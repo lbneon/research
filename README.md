@@ -41,6 +41,11 @@
 1. ##### <https://github.com/ZhuiyiTechnology/roformer-sim> 结合 nlu 与 nlg 的模型 SimBERTv2。
 2. ##### <https://github.com/princeton-nlp/SimCSE> 基于对比学习的相似度模型 Simple Contrastive Learning of Sentence Embeddings。
 
+## 长文本技术
+1. ##### <https://github.com/allenai/longformer>  官方 longformer。
+2. ##### <https://github.com/SCHENLIU/longformer-chinese>  中文 longformer 。
+3. ##### <https://github.com/LowinLi/chinese-bigbird> 中文 big bird。
+
 ## 中文预训练模型
 1. ##### <https://github.com/google-research/bert>  官方 Google Bert (tensorflow)。
 2. ##### <https://github.com/huggingface/transformers>  Transformer NLP 模型集合。
