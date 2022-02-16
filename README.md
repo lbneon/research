@@ -45,6 +45,7 @@
 1. ##### <https://github.com/allenai/longformer>  官方 longformer。
 2. ##### <https://github.com/SCHENLIU/longformer-chinese>  中文 longformer 。
 3. ##### <https://github.com/LowinLi/chinese-bigbird> 中文 big bird。
+4. ##### <https://github.com/Sleepychord/CogLTX> 长文 CogLTX: Applying BERT to Long Texts。
 
 ## 中文预训练模型
 1. ##### <https://github.com/google-research/bert>  官方 Google Bert (tensorflow)。
