@@ -2,4 +2,5 @@
 
 ## Face Recognition
 1. ##### <https://github.com/ageitgey/face_recognition> 人脸检测、人脸识别、提取人脸特征。
+2. ##### <https://github.com/serengil/deepface> 集成了 VGG-Face, Google FaceNet, OpenFace, Facebook DeepFace, DeepID, ArcFace, Dlib, SFace 等先进技术。
 
