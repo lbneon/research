@@ -11,3 +11,5 @@
 ## 图片修复
 1. ##### <https://github.com/Vaida12345/waifuExtension> 二次元图片修复，mac 上的神器。
 
+## 工具
+1. ##### <https://github.com/voxel51/fiftyone> 图片数据集观测工具。
